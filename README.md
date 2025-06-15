@@ -75,7 +75,5 @@ Works seamlessly in both dark and light mode environments.
 - **CSS Animations**
 - No external toast libraries used — 100% custom
 
----
 
-## 🧩 Folder Structure
 
